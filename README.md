@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi humans,
+
+Ouel here, I'm a web developer.
